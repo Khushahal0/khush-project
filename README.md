@@ -1,2 +1,2 @@
 # khush-project
-This  ia my first git Repository
+This  is my first git Repository
